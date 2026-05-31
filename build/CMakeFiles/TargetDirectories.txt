@@ -1,0 +1,4 @@
+/home/hallteon/Projects/p2p_blockchain_final_project/build/CMakeFiles/P2PBlockchainQt.dir
+/home/hallteon/Projects/p2p_blockchain_final_project/build/CMakeFiles/edit_cache.dir
+/home/hallteon/Projects/p2p_blockchain_final_project/build/CMakeFiles/rebuild_cache.dir
+/home/hallteon/Projects/p2p_blockchain_final_project/build/CMakeFiles/P2PBlockchainQt_autogen.dir
